@@ -12,10 +12,10 @@ Create a basic Next.js starter project as our project template
 
 **Lint & format**
 
-- ESLint(https://eslint.org/): Find and fix problems in your JavaScript & TypeScript code.
-- Prettier(https://github.com/prettier/prettier-vscode) : code formatter.
-- Husky(https://github.com/typicode/husky): Pre-commit hook included to lint your staged files.
-- Babel(https://babeljs.io/docs/en/): a JavaScript compiler. Because Next.js includes the `next/babel`  (https://nextjs.org/docs/advanced-features/customizing-babel-config), we just Config it.
+- [ESLint](https://eslint.org/): Find and fix problems in your JavaScript & TypeScript code.
+- [Prettier](https://github.com/prettier/prettier-vscode) : code formatter.
+- [Husky](https://github.com/typicode/husky): Pre-commit hook included to lint your staged files.
+- [Babel](https://babeljs.io/docs/en/): a JavaScript compiler. Because [Next.js includes the `next/babel`](https://nextjs.org/docs/advanced-features/customizing-babel-config), we just config it.
 
 **Debug Next.js Project**
 
@@ -30,6 +30,7 @@ Create a basic Next.js starter project as our project template
 - React Testing Library to make tests that mimic real user interactions
 
 **UI**
+
 We will try to use differnce CSS to create Template Later!
 - Saas 
 - TailwindCSS 2
